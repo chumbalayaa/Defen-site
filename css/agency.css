@@ -306,6 +306,35 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+.eratitle {
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.eratext {
+  margin-left: 15px;
+}
+
+.romanempire {
+  background-color: #e1f289;
+  margin-top: -15px;
+  margin-bottom: 15px;
+}
+
+.darkages {
+  background-color: #d2d4c6;
+  margin-top: -15px;
+  margin-bottom: 15px;
+}
+
+.renaissance {
+  background-color: #92f289;
+  margin-top: -15px;
+  margin-bottom: 15px;
+}
+
 .portfolio-modal .modal-dialog {
   margin: 1rem;
   max-width: 100vw;
